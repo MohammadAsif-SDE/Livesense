@@ -355,6 +355,6 @@ Local Whisper, pyannote and the sentiment models run entirely on your machine. I
 
 <div align="center">
 
-**Built with ❤️ for people who listen closely.**
+**Built with ❤️ for people who listen closely...**
 
 </div>
