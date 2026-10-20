@@ -4,7 +4,7 @@
 
 ### Real-time speaker diarization & multimodal sentiment analysis.
 
-**Hear who is speaking. See what they say. Know how they feel — as it happens.**
+**Hear who is speaking. See what they say. Know how they feel as it happens.**
 
 <br />
 
