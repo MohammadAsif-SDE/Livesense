@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Models (downloaded at runtime)
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Environment
+.env
+backend/.env
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# Misc
+.DS_Store
+*.log
+audio_buffers/
+exports/
+.pytest_cache/
+.mypy_cache/
+htmlcov/
